@@ -1,0 +1,7 @@
+{
+  "http.port" : 8089,
+  "url": "jdbc:mysql://local.clickbus.com/vertx",
+  "driver_class": "com.mysql.jdbc.Driver",
+  "user": "root",
+  "password": "root"
+}

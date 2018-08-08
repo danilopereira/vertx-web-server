@@ -8,5 +8,10 @@ This is an example project using Vert.x as a **HTTP Server**, sharing interfaces
 ## Running
 ### Build
 ```sh
-mvn clean install
+mvn clean package
+```
+
+### Run
+```sh
+java -jar target/vertx-web-server-1.0-SNAPSHOT-fat.jar
 ```
