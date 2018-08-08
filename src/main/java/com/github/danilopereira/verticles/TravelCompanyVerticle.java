@@ -14,7 +14,6 @@ import io.vertx.ext.web.Router;
 import io.vertx.ext.web.RoutingContext;
 
 import java.util.List;
-import java.util.Map;
 import java.util.stream.Collectors;
 
 public class TravelCompanyVerticle extends AbstractVerticle {
