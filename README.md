@@ -3,7 +3,7 @@
 # Vert.x Web Server
 
 ## Description
-This is an example project using Vert.x as a **HTTP Server**, sharing interfaces of a **CRUD**, persisting on a **MongoDB**
+This is an example project using Vert.x as a **HTTP Server**, sharing interfaces of a **CRUD**, persisting on a **MySQL**
 
 ## Running
 ### Build
